@@ -9,4 +9,4 @@ OBS.: Este não foi o meu primeiro contato com as linguagens de marcação HTML 
 
 ### Acesse o site aqui:
 
-https://luana-fonseca.github.io/Inter_1ano_CursoTecnico/
+https://luana-fonseca.github.io/festividades_brasileiras/
