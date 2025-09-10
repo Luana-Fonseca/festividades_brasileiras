@@ -7,6 +7,10 @@ Eu e meu companheiro de equipe esolhemos as festividades típicas brasileiras. C
 
 OBS.: Este não foi o meu primeiro contato com as linguagens de marcação HTML e CSS, mas foi o meu primeiro contato com a biblioteca do Bootstrap (biblioteca de desenvolvimento Front-End). Fiquei responsavel por desenvolver a codificação do site, enquanto meu companheiro de equipe, Ygor, desenvolveu o design na Plataforma Figma.
 
+### 📷 Prévia 
+
+<img width="1894" height="917" alt="image" src="https://github.com/user-attachments/assets/0227ef56-b5fd-4bf0-bf85-1927d1dc8abc" />
+
 ### Acesse o site aqui:
 
 https://luana-fonseca.github.io/festividades_brasileiras/
